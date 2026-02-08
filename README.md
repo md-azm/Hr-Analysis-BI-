@@ -44,4 +44,6 @@ An interactive Power BI dashboard designed to analyze HR data and provide insigh
    •Demonstrates skills in Power BI, DAX, and data modeling
 
 
-6. **Screenshort / Demo:** https://github.com/md-azm/Hr-Analysis-BI-/blob/main/HR-Dashboard%20Screenshot.jpeg
+6. **Screenshort / Demo:**
+
+(https://github.com/md-azm/Hr-Analysis-BI-/blob/main/HR-Dashboard%20Screenshot.jpeg).
